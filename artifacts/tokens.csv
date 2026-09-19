@@ -1,0 +1,6 @@
+token,chain,launch_date,mint,gmgn,solscan,bubblemaps,notes
+WAP,solana,2024-10-07,Bz7vVzQhm2KMW1XgcrDruYega1MiwrAs1DQysrx4tFkp,https://gmgn.ai/sol/token/Bz7vVzQhm2KMW1XgcrDruYega1MiwrAs1DQysrx4tFkp,,https://v2.bubblemaps.io/map?address=Bz7vVzQhm2KMW1XgcrDruYega1MiwrAs1DQysrx4tFkp&chain=solana,Seed. Cardi B post https://x.com/iamcardib/status/1843429101518172618. Peak ~$40M then ~$21k.
+LIBRA,solana,2025-02-14,Bo9jh3wsmcC2AjakLWzNmKJ3SgtZmXEcSaW7L2FAvUsU,https://gmgn.ai/sol/token/Bo9jh3wsmcC2AjakLWzNmKJ3SgtZmXEcSaW7L2FAvUsU,https://solscan.io/token/Bo9jh3wsmcC2AjakLWzNmKJ3SgtZmXEcSaW7L2FAvUsU,,Expansion from WAP cash-out snipers. Milei post later deleted.
+MELANIA,solana,2025-01-19,FUAfBo2jgks6gB4Z4LfZkgSZgzNucisEHqnNebaRxM1P,https://gmgn.ai/sol/token/FUAfBo2jgks6gB4Z4LfZkgSZgzNucisEHqnNebaRxM1P,,,Expansion from the same upstream EVM funder. Promoted https://x.com/MELANIATRUMP/status/1881094861279129643
+NETH,solana,2025-02,s2dm5sk46qys6ecff7Wia2ANFS269MLfvcyMWKkNETH,,,,Pattern check only. Not a seed and not treated as a fourth case study.
+ARG,solana,2025-02-14,,,,,,Same-day sister deployment funded through the same FixedFloat batch as LIBRA.

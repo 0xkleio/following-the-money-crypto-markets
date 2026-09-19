@@ -1,0 +1,26 @@
+role,chain,address,arkham_label,paper_name,explorer,notes
+WAP primary EVM funder,ethereum,0xd7ecb027f7d6100b6147f50baed6f787a86004b2,,,https://app.debridge.com/orders?s=0xd7ecb027f7d6100b6147f50baed6f787a86004b2,Funded 129 Solana wallets on 2024-10-07 including the WAP deployer
+WAP fee-dust EVM funder,ethereum,0x4a2fa18a171e00069b8831c613ebd106fcb37388,,,https://app.debridge.com/orders?s=0x4a2fa18a171e00069b8831c613ebd106fcb37388,147 wallets x 0.08 SOL the day after launch
+WAP cluster-19 EVM funder,ethereum,0x8a83e661a86e31c6b337b5d7bc10ced9a645d2c7,,,,Single-wallet deBridge source
+WAP deployer,solana,8yrmLzJBNyAmc8GhrcyEXRA4aUFdHsx3DsZ8QVrHPdLB,,,,Creator of Bz7vVzQhm2KMW1XgcrDruYega1MiwrAs1DQysrx4tFkp
+WAP cluster-18 funder,solana,DQ6r7i7VydwDRijiZ5XGEKWKVh21kVobvMdvQcj4upfb,Kelsier Ventures,Entity A,https://arkm.com/explorer/address/DQ6r7i7VydwDRijiZ5XGEKWKVh21kVobvMdvQcj4upfb,Label lead only
+WAP cash-out recipient,solana,C5rJQ5s9xZvogMUbyPCG6iB2k6cD3h3qmJsGXSiZVvgi,Kelsier Ventures,Entity A,https://arkm.com/explorer/address/C5rJQ5s9xZvogMUbyPCG6iB2k6cD3h3qmJsGXSiZVvgi,Appears on Cluster 1 cash-out trace
+LIBRA sniper from WAP environment,solana,8izuN26YkEv1CJxbD5EFcFKzKSJCWVgZozsyh93jdZEE,,,,Direct lead used to expand the case
+LIBRA sniper from WAP environment,solana,7qN8RpRpggQf1gH6pE11vCrWfSH6t9WGZqepR33g5ac7,,,,Direct lead used to expand the case
+LIBRA deployer,solana,DefcyKc4yAjRsCLZjdxWuSUzVohXtLna9g22y3pBCm2z,,,,Creator of Bo9jh3wsmcC2AjakLWzNmKJ3SgtZmXEcSaW7L2FAvUsU; first funded by FixedFloat
+LIBRA sister deployer ARG,solana,Ea7Ld4nmdLot5kiREtoVKxyvyAJ1ray7YkiYzEM18jsx,,,,Same-day FixedFloat payout
+LIBRA sister deployer test,solana,FeJ58f8T6EeBS3X6Dt4gGUpxzKsmkuNcfKzgvntxKz75,,,,Short-lived test token also named LIBRA
+FixedFloat deposit A,arbitrum,0x86de3FD45FE10a1418C23A5cEBAEF0DBfc55B0F9,,,,Value/time match to LIBRA funding window
+FixedFloat deposit B,arbitrum,0x89Bdc61C0b26F4e9eA9ABCfEB210C427853F768e,,,,Value/time match to LIBRA funding window
+FixedFloat deposit C,arbitrum,0x144285e8D53a07894B2490a88c93DD39E03478Bc,,,,Value/time match to LIBRA funding window
+Upstream EVM funder,arbitrum_ethereum,0xcEAeFb5BEC983Fd10e324d7e6F5457507BA006e2,Kelsier Ventures,Entity A,https://arkm.com/explorer/address/0xcEAeFb5BEC983Fd10e324d7e6F5457507BA006e2,Common sender behind the three FixedFloat deposits; also funds MELANIA first buyer
+NETH funded Solana hub,solana,CGzGdWk42B3C1FgPre9hHhsXzQES3cj3iWBbKwSS1tVs,,,,deBridge payout from 0xcEAe...006e2 on 2025-02-10
+NETH hop,solana,Em7WgaPE17nvea78hbX2WzUdXJ4PT38Fb4AhHsefLaeo,,,,
+NETH hop,solana,oAMSw14MMah2xKrTwdpsbntymw9nshU6zVt3pQ4xp8H,,,,
+NETH hop,solana,6cBSgin3E5M5Vt1bnJijzvsRNjkjMCcpfs13WGK3VQKk,,,,
+NETH hop,solana,7N82XbiRGARbZCqAuezYCK4uD4hSnRR7E4X6igtFoaKJ,,,,
+NETH sniper,solana,9EmBgGD6M633r54uoNogg8S1mdpnAjyUXfMGq61fhV8T,,,,
+NETH deployer,solana,ArQ7DqzjD2vchBfReegKNV1rkvAGrunmvwvayn7WC3cX,,,,
+NETH deployer funder SideShift,solana,ABNL41SwMLVRaCq6okEWsWyvLwm56nazUNwMrTHgmuyf,, ,https://arkm.com/explorer/address/ABNL41SwMLVRaCq6okEWsWyvLwm56nazUNwMrTHgmuyf,Arkham labels the address as SideShift
+SideShift deposit,ethereum,0xE29E251a87F8F09A1eaf7235a9d3dDe8e6F0AA84,,,,Ultimate depositor 0xcEAe...006e2
+MELANIA first buyer,solana,P5tb4T6SBVQaM3BAoGfpVudLtTdecqzsh4KV9ESAhKg,,,https://usdc.range.org/transactions?sc=INTERCHAIN&s=P5tb4T6SBVQaM3BAoGfpVudLtTdecqzsh4KV9ESAhKg,GMGN first buyer; USDC later returns toward 0xcEAe...006e2

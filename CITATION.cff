@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "Following the Money in Crypto Markets — Reproduction Package"
+message: "If you use this repository, please cite the C+J short paper and this package."
+type: dataset
+authors:
+  - family-names: Kalamaridi
+    given-names: Kleio
+    email: kleiokalamaridi@gmail.com
+  - family-names: Sotirakou
+    given-names: Catherine
+  - family-names: Mourlas
+    given-names: Constantinos
+repository-code: "https://github.com/0xkleio/following-the-money-crypto-markets"
+url: "https://github.com/0xkleio/following-the-money-crypto-markets"
+abstract: >
+  On-chain identifiers, sampling rules, and a stage-by-stage reproduction
+  guide for the C+J 2026 short paper on a forensic snowball workflow for
+  investigative journalism.
+keywords:
+  - investigative journalism
+  - blockchain forensics
+  - Solana
+  - memecoins
+  - OSINT
+license: CC-BY-4.0
+date-released: "2026-09-20"
