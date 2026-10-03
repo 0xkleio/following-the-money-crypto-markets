@@ -331,5 +331,5 @@ If you use this package, cite both the short paper (once the proceedings version
 Kalamaridi, K., Sotirakou, C., & Mourlas, C. (2026). Following the Money
 in Crypto Markets: A Reproducible Blockchain-Forensic Workflow for
 Investigative Journalism. Computation + Journalism Symposium. 
-[Full Text](https://docs.google.com/document/d/1AIvPk2ACmHWIjopIiVs_E40KIiaQ5Jsl)
 ```
+[Full Text](https://docs.google.com/document/d/1AIvPk2ACmHWIjopIiVs_E40KIiaQ5Jsl)
