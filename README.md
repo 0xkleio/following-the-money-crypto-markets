@@ -34,3 +34,4 @@ The full reproduction package (stage notes, sampling files, address tables) is a
 | $WAP | Solana | 7 Oct 2024 | `Bz7vVzQhm2KMW1XgcrDruYega1MiwrAs1DQysrx4tFkp` |
 | $LIBRA | Solana | 14 Feb 2025 | `Bo9jh3wsmcC2AjakLWzNmKJ3SgtZmXEcSaW7L2FAvUsU` |
 | $MELANIA | Solana | 19 Jan 2025 | `FUAfBo2jgks6gB4Z4LfZkgSZgzNucisEHqnNebaRxM1P` |
+| $NETH | Solana | Feb 2025 | `s2dm5sk46qys6ecff7Wia2ANFS269MLfvcyMWKkNETH` |
