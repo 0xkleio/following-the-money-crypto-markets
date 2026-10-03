@@ -2,8 +2,6 @@
 
 Kleio Kalamaridi. Links for the Computation + Journalism 2026 short paper and the undergraduate thesis it draws on.
 
-The full reproduction package (stage notes, sampling files, address tables) is archived at [github.com/0xkleio/following-the-money](https://github.com/0xkleio/following-the-money). It is also still in this repository's commit history.
-
 ## Papers
 
 - [Short paper](https://docs.google.com/document/d/1AIvPk2ACmHWIjopIiVs_E40KIiaQ5Jsl) — *Following the Money in Crypto Markets: A Reproducible Blockchain-Forensic Workflow for Investigative Journalism.* Kleio Kalamaridi, Catherine Sotirakou, Constantinos Mourlas. Computation + Journalism Symposium, October 2026, Evanston, Illinois.
