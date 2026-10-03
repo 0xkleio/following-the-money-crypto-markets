@@ -19,11 +19,11 @@ The full reproduction package (stage notes, sampling files, address tables) is a
 
 | Tool | Role |
 |---|---|
-| [GMGN](https://gmgn.ai/), Dexscreener | Launch date, market-cap collapse, first-buyer ranking |
+| [GMGN](https://gmgn.ai/), [Dexscreener](https://dexscreener.com/) | Launch date, market-cap collapse, first-buyer ranking |
 | [Bubblemaps](https://v2.bubblemaps.io/) | Early-holder clusters |
 | [Solscan](https://solscan.io/) | Creator address, oldest funding tx, token mint |
 | [deBridge](https://app.debridge.com/) | Backward trace of Solana funding to an EVM source |
-| FixedFloat, SideShift | Cross-chain deposits and payouts matched by time and value |
+| [FixedFloat](https://fixedfloat.com/), [SideShift](https://sideshift.ai/) | Cross-chain deposits and payouts matched by time and value |
 | [Arkham Intelligence](https://www.arkhamintelligence.com/) | Path visualization and third-party labels |
 | [Range](https://usdc.range.org/) | USDC interchain flows |
 
