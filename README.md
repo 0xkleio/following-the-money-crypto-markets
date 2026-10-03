@@ -333,4 +333,4 @@ in Crypto Markets: A Reproducible Blockchain-Forensic Workflow for
 Investigative Journalism. Computation + Journalism Symposium. 
 ```
 [Short Paper](https://docs.google.com/document/d/1AIvPk2ACmHWIjopIiVs_E40KIiaQ5Jsl)
-[Original thesis document] (https://docs.google.com/document/d/1nloWcF4I7noLu75W5TOXTuEqTXzHjFqMe-2h2bJGKVA)
+[Original thesis document](https://docs.google.com/document/d/1nloWcF4I7noLu75W5TOXTuEqTXzHjFqMe-2h2bJGKVA)
